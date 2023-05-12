@@ -17,3 +17,6 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 7. Robert, P., Brault, C., Rincent, R., & Segura, V. (2022). [Phenomic Selection: A New and Efficient Alternative to Genomic Selection Genomic selection (GS)](https://link.springer.com/protocol/10.1007/978-1-0716-2205-6_14). In Genomic Prediction of Complex Traits: Methods and Protocols (pp. 397-420). New York, NY: Springer US.
 
 8. Westhues, C. C., Mahone, G. S., da Silva, S., Thorwarth, P., Schmidt, M., Richter, J. C., ... & Beissinger, T. M. (2021). [Prediction of maize phenotypic traits with genomic and environmental predictors using gradient boosting frameworks](https://www.frontiersin.org/articles/10.3389/fpls.2021.699589/full). Frontiers in Plant Science.
+
+9. Piepho, H. P., Büchse, A., & Emrich, K. (2003). [A hitchhiker's guide to mixed models for randomized experiments](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1439-037X.2003.00049.x). Journal of Agronomy and Crop Science.
+
