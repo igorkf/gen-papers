@@ -21,3 +21,5 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 9. Piepho, H. P., Büchse, A., & Emrich, K. (2003). [A hitchhiker's guide to mixed models for randomized experiments](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1439-037X.2003.00049.x). Journal of Agronomy and Crop Science.
 
 10. Crain, J., Mondal, S., Rutkoski, J., Singh, R. P., & Poland, J. (2018). [Combining high‐throughput phenotyping and genomic information to increase prediction and selection accuracy in wheat breeding](https://acsess.onlinelibrary.wiley.com/doi/10.3835/plantgenome2017.05.0043). The Plant Genome.   
+
+11. Biswas, A., Andrade, M. H. M. L., Acharya, J. P., de Souza, C. L., Lopez, Y., de Assis, G., ... & Rios, E. F. (2021). [Phenomics-assisted selection for herbage accumulation in alfalfa (Medicago sativa L.)](https://www.frontiersin.org/articles/10.3389/fpls.2021.756768/full). Frontiers in Plant Science.
