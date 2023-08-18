@@ -14,7 +14,7 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 
 6. Cheng, J., Maltecca, C., VanRaden, P. M., O'Connell, J. R., Ma, L., & Jiang, J. (2023). [SLEMM: million-scale genomic predictions with window-based SNP weighting](https://academic.oup.com/bioinformatics/article/39/3/btad127/7075542). Bioinformatics.
 
-7. Robert, P., Brault, C., Rincent, R., & Segura, V. (2022). [Phenomic Selection: A New and Efficient Alternative to Genomic Selection Genomic selection (GS)](https://link.springer.com/protocol/10.1007/978-1-0716-2205-6_14). In Genomic Prediction of Complex Traits: Methods and Protocols (pp. 397-420). New York, NY: Springer US.
+7. Robert, P., Brault, C., Rincent, R., & Segura, V. (2022). [Phenomic Selection: A New and Efficient Alternative to Genomic Selection](https://link.springer.com/protocol/10.1007/978-1-0716-2205-6_14). In Genomic Prediction of Complex Traits: Methods and Protocols (pp. 397-420). New York, NY: Springer US.
 
 8. Westhues, C. C., Mahone, G. S., da Silva, S., Thorwarth, P., Schmidt, M., Richter, J. C., ... & Beissinger, T. M. (2021). [Prediction of maize phenotypic traits with genomic and environmental predictors using gradient boosting frameworks](https://www.frontiersin.org/articles/10.3389/fpls.2021.699589/full). Frontiers in Plant Science.
 
