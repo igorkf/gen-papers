@@ -23,3 +23,5 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 10. Crain, J., Mondal, S., Rutkoski, J., Singh, R. P., & Poland, J. (2018). [Combining high‐throughput phenotyping and genomic information to increase prediction and selection accuracy in wheat breeding](https://acsess.onlinelibrary.wiley.com/doi/10.3835/plantgenome2017.05.0043). The Plant Genome.   
 
 11. Biswas, A., Andrade, M. H. M. L., Acharya, J. P., de Souza, C. L., Lopez, Y., de Assis, G., ... & Rios, E. F. (2021). [Phenomics-assisted selection for herbage accumulation in alfalfa (Medicago sativa L.)](https://www.frontiersin.org/articles/10.3389/fpls.2021.756768/full). Frontiers in Plant Science.
+
+12. Qu, J., Morota, G., & Cheng, H. (2022). [A Bayesian random regression method using mixture priors for genome‐enabled analysis of time‐series high‐throughput phenotyping data](https://doi.org/10.1002/tpg2.20228). The Plant Genome.
