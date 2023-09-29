@@ -27,3 +27,5 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 12. Qu, J., Morota, G., & Cheng, H. (2022). [A Bayesian random regression method using mixture priors for genome‐enabled analysis of time‐series high‐throughput phenotyping data](https://doi.org/10.1002/tpg2.20228). The Plant Genome.
 
 13. Wilson, G., Aruliah, D. A., Brown, C. T., Chue Hong, N. P., Davis, M., Guy, R. T., ... & Wilson, P. (2014). [Best practices for scientific computing](https://doi.org/10.1371/journal.pbio.1001745). PLOS Biology.
+
+14. Khaipho-Burch, M., Cooper, M., Crossa, J., de Leon, N., Holland, J., Lewis, R., ... & Buckler, E. S. (2023). [Genetic modification can improve crop yields—but stop overselling it](http://dx.doi.org/10.1038/d41586-023-02895-w).
