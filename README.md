@@ -28,6 +28,8 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 
 13. Wilson, G., Aruliah, D. A., Brown, C. T., Chue Hong, N. P., Davis, M., Guy, R. T., ... & Wilson, P. (2014). [Best practices for scientific computing](https://doi.org/10.1371/journal.pbio.1001745). PLOS Biology.
 
-14. Khaipho-Burch, M., Cooper, M., Crossa, J., de Leon, N., Holland, J., Lewis, R., ... & Buckler, E. S. (2023). [Genetic modification can improve crop yields—but stop overselling it](http://dx.doi.org/10.1038/d41586-023-02895-w). Nature
+14. Khaipho-Burch, M., Cooper, M., Crossa, J., de Leon, N., Holland, J., Lewis, R., ... & Buckler, E. S. (2023). [Genetic modification can improve crop yields—but stop overselling it](http://dx.doi.org/10.1038/d41586-023-02895-w). Nature.
 
 15. Huang, W., & Mackay, T. F. (2016). [The genetic architecture of quantitative traits cannot be inferred from variance component analysis](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006421). PLoS Genetics.
+
+16. Wang, M., Li, R., & Xu, S. (2020). [Deshrinking ridge regression for genome-wide association studies](https://doi.org/10.1093/bioinformatics/btaa345). Bioinformatics, 36(14), 4154-4162.
