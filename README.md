@@ -35,3 +35,5 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 16. Wang, M., Li, R., & Xu, S. (2020). [Deshrinking ridge regression for genome-wide association studies](https://doi.org/10.1093/bioinformatics/btaa345). Bioinformatics, 36(14), 4154-4162.
 
 17. Moreira, F. F., Oliveira, H. R., Volenec, J. J., Rainey, K. M., & Brito, L. F. (2020). [Integrating high-throughput phenotyping and statistical genomic methods to genetically improve longitudinal traits in crops](https://doi.org/10.3389/fpls.2020.00681). Frontiers in Plant Science, 11, 681.
+
+18. Hu, X., Carver, B.F., El-Kassaby, Y.A. et al. (2023) [Weighted kernels improve multi-environment genomic prediction](https://doi.org/10.1038/s41437-022-00582-6). Heredity 130, 82–91.
