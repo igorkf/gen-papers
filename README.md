@@ -37,3 +37,5 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 17. Moreira, F. F., Oliveira, H. R., Volenec, J. J., Rainey, K. M., & Brito, L. F. (2020). [Integrating high-throughput phenotyping and statistical genomic methods to genetically improve longitudinal traits in crops](https://doi.org/10.3389/fpls.2020.00681). Frontiers in Plant Science, 11, 681.
 
 18. Hu, X., Carver, B.F., El-Kassaby, Y.A. et al. (2023) [Weighted kernels improve multi-environment genomic prediction](https://doi.org/10.1038/s41437-022-00582-6). Heredity 130, 82–91.
+
+19. Alemu, A., Åstrand, J., Montesinos-López, O. A., y Sánchez, J. I., Fernández-Gónzalez, J., Tadesse, W., ... & Chawade, A. (2024). [Genomic selection in plant breeding: key factors shaping two decades of progress](https://doi.org/10.1016/j.molp.2024.03.007). Molecular Plant.
