@@ -39,3 +39,5 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 18. Hu, X., Carver, B.F., El-Kassaby, Y.A. et al. (2023) [Weighted kernels improve multi-environment genomic prediction](https://doi.org/10.1038/s41437-022-00582-6). Heredity 130, 82–91.
 
 19. Alemu, A., Åstrand, J., Montesinos-López, O. A., y Sánchez, J. I., Fernández-Gónzalez, J., Tadesse, W., ... & Chawade, A. (2024). [Genomic selection in plant breeding: key factors shaping two decades of progress](https://doi.org/10.1016/j.molp.2024.03.007). Molecular Plant.
+
+20. Mackay, T. F., & Anholt, R. R. (2024). [Pleiotropy, epistasis and the genetic architecture of quantitative traits](https://www.nature.com/articles/s41576-024-00711-3). Nature Reviews Genetics, 1-19.
