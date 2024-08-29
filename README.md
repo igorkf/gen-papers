@@ -43,3 +43,5 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 20. Mackay, T. F., & Anholt, R. R. (2024). [Pleiotropy, epistasis and the genetic architecture of quantitative traits](https://www.nature.com/articles/s41576-024-00711-3). Nature Reviews Genetics, 1-19.
 
 21. Saad, N. S. M., Neik, T. X., Thomas, W. J., Amas, J. C., Cantila, A. Y., Craig, R. J., ... & Batley, J. (2022). [Advancing designer crops for climate resilience through an integrated genomics approach](https://doi.org/10.1016/j.pbi.2022.102220). Current Opinion in Plant Biology, 67, 102220.
+
+22. Zhu, H., & Zhou, X. (2020). [Statistical methods for SNP heritability estimation and partition: A review](https://doi.org/10.1016/j.csbj.2020.06.011). Computational and Structural Biotechnology Journal, 18, 1557-1568.
