@@ -45,3 +45,5 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 21. Saad, N. S. M., Neik, T. X., Thomas, W. J., Amas, J. C., Cantila, A. Y., Craig, R. J., ... & Batley, J. (2022). [Advancing designer crops for climate resilience through an integrated genomics approach](https://doi.org/10.1016/j.pbi.2022.102220). Current Opinion in Plant Biology, 67, 102220.
 
 22. Zhu, H., & Zhou, X. (2020). [Statistical methods for SNP heritability estimation and partition: A review](https://doi.org/10.1016/j.csbj.2020.06.011). Computational and Structural Biotechnology Journal, 18, 1557-1568.
+
+23. Negus, K. L., Li, X., Welch, S. M., & Yu, J. (2024). [The role of artificial intelligence in crop improvement](https://doi.org/10.1016/bs.agron.2023.11.001). Advances in Agronomy, 184, 1-66. 
