@@ -1,6 +1,6 @@
 # gen-papers
 
-These are the papers we've been reading in the Quantitative Genetics lab's journal club at the University of Arkansas.
+These are the papers we've been reading at the Quantitative Genetics lab's journal club at the University of Arkansas.
 
 1. Moeinizade, S., Kusmec, A., Hu, G., Wang, L., & Schnable, P. S. (2020). [Multi-trait genomic selection methods for crop improvement](https://academic.oup.com/genetics/article/215/4/931/6065544). Genetics.
 
@@ -47,3 +47,6 @@ These are the papers we've been reading in the Quantitative Genetics lab's journ
 22. Zhu, H., & Zhou, X. (2020). [Statistical methods for SNP heritability estimation and partition: A review](https://doi.org/10.1016/j.csbj.2020.06.011). Computational and Structural Biotechnology Journal, 18, 1557-1568.
 
 23. Negus, K. L., Li, X., Welch, S. M., & Yu, J. (2024). [The role of artificial intelligence in crop improvement](https://doi.org/10.1016/bs.agron.2023.11.001). Advances in Agronomy, 184, 1-66. 
+
+24. Wang, F., Feldmann, M. J., & Runcie, D. E. (2025). [Why Accuracy Metrics Fall Short in Comparing Phenomic and Genomic Prediction Models](https://doi.org/10.1101/2025.01.09.632209). bioRxiv, 2025-01.
+
