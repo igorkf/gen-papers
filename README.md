@@ -51,3 +51,5 @@ These are the papers we've been reading at the Quantitative Genetics lab's journ
 24. Wang, F., Feldmann, M. J., & Runcie, D. E. (2025). [Why Accuracy Metrics Fall Short in Comparing Phenomic and Genomic Prediction Models](https://doi.org/10.1101/2025.01.09.632209). bioRxiv, 2025-01.
 
 25. Korte, A., & Farlow, A. (2013). [The advantages and limitations of trait analysis with GWAS: a review](https://link.springer.com/article/10.1186/1746-4811-9-29). Plant methods, 9, 1-9.
+
+26. Mumford, M. H., Forknall, C. R., Rodriguez, D., Eyre, J. X., & Kelly, A. M. (2023). [Incorporating environmental covariates to explore genotype× environment× management (G× E× M) interactions: A one-stage predictive model](https://www.sciencedirect.com/science/article/pii/S037842902300326X). Field Crops Research, 304, 109133.
