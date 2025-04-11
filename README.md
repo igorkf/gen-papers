@@ -53,3 +53,5 @@ These are the papers we've been reading at the Quantitative Genetics lab's journ
 25. Korte, A., & Farlow, A. (2013). [The advantages and limitations of trait analysis with GWAS: a review](https://link.springer.com/article/10.1186/1746-4811-9-29). Plant methods, 9, 1-9.
 
 26. Mumford, M. H., Forknall, C. R., Rodriguez, D., Eyre, J. X., & Kelly, A. M. (2023). [Incorporating environmental covariates to explore genotype× environment× management (G× E× M) interactions: A one-stage predictive model](https://www.sciencedirect.com/science/article/pii/S037842902300326X). Field Crops Research, 304, 109133.
+
+27. Hufnagel, B., de Sousa, S. M., Assis, L., Guimaraes, C. T., Leiser, W., Azevedo, G. C., ... & Magalhaes, J. V. (2014). [Duplicate and conquer: multiple homologs of PHOSPHORUS-STARVATION TOLERANCE1 enhance phosphorus acquisition and sorghum performance on low-phosphorus soils](https://academic.oup.com/plphys/article/166/2/659/6113341). Plant physiology, 166(2), 659-677.
