@@ -57,3 +57,5 @@ These are the papers we've been reading at the Quantitative Genetics lab's journ
 27. Hufnagel, B., de Sousa, S. M., Assis, L., Guimaraes, C. T., Leiser, W., Azevedo, G. C., ... & Magalhaes, J. V. (2014). [Duplicate and conquer: multiple homologs of PHOSPHORUS-STARVATION TOLERANCE1 enhance phosphorus acquisition and sorghum performance on low-phosphorus soils](https://academic.oup.com/plphys/article/166/2/659/6113341). Plant physiology, 166(2), 659-677.
 
 28. Ji, L., Hou, W., Zhou, H., Xiong, L., Liu, C., Yuan, Z., & Li, L. (2025). [EBMGP: a deep learning model for genomic prediction based on Elastic Net feature selection and bidirectional encoder representations from transformer's embedding and multi-head attention pooling](https://link.springer.com/article/10.1007/s00122-025-04894-z). Theoretical and Applied Genetics, 138(5), 1-15.
+
+29. Hobby, D., Tong, H., Heuermann, M., Mbebi, A. J., Laitinen, R. A., Dell’Acqua, M., ... & Nikoloski, Z. (2025). [Predicting plant trait dynamics from genetic markers](https://www.nature.com/articles/s41477-025-01986-y). Nature plants, 1-10.
